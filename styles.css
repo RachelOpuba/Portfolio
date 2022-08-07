@@ -75,7 +75,7 @@ nav ul li {
 
 .hero-image {
   width: 50%;
-  background-image: url(/images/hero.png);
+  background-image: url(images/hero.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
@@ -237,7 +237,7 @@ textarea {
 }
 .about-image {
   width: 50%;
-  background-image: url(/images/rachel-pic.jpeg);
+  background-image: url(images/rachel-pic.jpeg);
   background-position: center;
   background-size: cover;
   border-top: 10px solid rgb(109, 146, 136);
@@ -295,7 +295,7 @@ footer a {
       rgba(0, 0, 0, 0.4),
       rgba(0, 0, 0, 0.73)
     ),
-    url(/images/bg.jpg);
+    url(images/bg.jpg);
   background-position: center;
   background-repeat: no-repeat;
   color: white;
